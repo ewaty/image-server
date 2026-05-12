@@ -1,5 +1,4 @@
 import fs from "fs";
-import Jimp from "jimp";
 import sharp from "sharp";
 
 
